@@ -78,7 +78,7 @@ Monokai style - ported by Luigi Maselli - http://grigio.org
 #nice .custom:before {
   content: '';
   display:block;
-  background: url(https://imgkr.cn-bj.ufileos.com/97e4eed2-a992-4976-acf0-ccb6fb34d308.png);
+  background: url(https://s2.loli.net/2022/01/11/XyHnMBGWCl5Z9DK.png);
   height: 30px;
   width: 100%;
   background-size:40px;
