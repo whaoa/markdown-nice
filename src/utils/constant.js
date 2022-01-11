@@ -132,7 +132,7 @@ export const TEMPLATE_OPTIONS = [
     id: "fullStackBlue",
     name: "全栈蓝",
     author: "Nealyang",
-    isNew: true,
+    // isNew: true,
   },
   {
     id: "custom",

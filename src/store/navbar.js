@@ -88,7 +88,7 @@ if (!window.localStorage.getItem(TEMPLATE_NUM)) {
 
 // 如果为空先把数据放进去
 if (!window.localStorage.getItem(CODE_NUM)) {
-  window.localStorage.setItem(CODE_NUM, 0);
+  window.localStorage.setItem(CODE_NUM, 1);
 }
 
 if (!window.localStorage.getItem(PREVIEW_TYPE)) {
@@ -104,7 +104,7 @@ if (!window.localStorage.getItem(IS_CONTAIN_IMG_NAME)) {
 }
 
 if (!window.localStorage.getItem(IS_MAC_CODE)) {
-  window.localStorage.setItem(IS_MAC_CODE, false);
+  window.localStorage.setItem(IS_MAC_CODE, true);
 }
 
 // 获取之前选择的主题状态
