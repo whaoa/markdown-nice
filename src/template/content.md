@@ -1,4 +1,4 @@
-![](https://imgkr.cn-bj.ufileos.com/b4c806dd-caa2-43f4-82d9-796ce6716267.svg)
+![](https://s2.loli.net/2022/01/11/HM4G3mUXZEc6W1u.png)
 
 请使用 **Chrome** 浏览器。
 
@@ -8,9 +8,6 @@
 
 - 支持自定义样式的 Markdown 编辑器
 - 支持微信公众号、知乎和稀土掘金
-- 欢迎扫码回复「排版」加入用户群
-
-![](https://imgkr.cn-bj.ufileos.com/22cf98bd-3f85-45fc-9df7-e6b2808329d0.png)
 
 ## 2 示例文章
 
@@ -118,11 +115,9 @@
 
 插入图片，如果是行内图片则无图例，否则有图例，格式如下：
 
-![这里写图片描述](https://imgkr.cn-bj.ufileos.com/22cf98bd-3f85-45fc-9df7-e6b2808329d0.png)
+![这里写图片描述](https://s2.loli.net/2022/01/11/HM4G3mUXZEc6W1u.png)
 
-支持 jpg、png、gif、svg 等图片格式，**其中 svg 文件仅可在微信公众平台中使用**，svg 文件示例如下：
-
-![](https://my-wechat.mdnice.com/mdnice/i_am_svg_20191024083453.svg)
+支持 jpg、png、gif、svg 等图片格式，**其中 svg 文件仅可在微信公众平台中使用**
 
 - 支持图片**拖拽和截图粘贴**到编辑器中上传，上传时使用当前选择的图床。
 - 可使用**格式->图片**上传本地图片，网站仅支持「图壳」图床，失败率低可长久保存！
@@ -259,7 +254,7 @@ Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！
 
 通过`<![](url),![](url)>`这种语法设置横屏滑动滑动片，具体用法如下：
 
-<![蓝1](https://my-wechat.mdnice.com/mdnice/%E8%93%9D1_20191109174052.jpg),![绿2](https://my-wechat.mdnice.com/mdnice/%E7%BB%BF2_20191109174052.jpg),![红3](https://my-wechat.mdnice.com/mdnice/%E7%BA%A23_20191109174052.jpg)>
+<![blue.jpg](https://s2.loli.net/2022/01/11/NxtibPZAWcqrLp7.jpg),![green.jpg](https://s2.loli.net/2022/01/11/Dums5e2zCIhGR6b.jpg),![red.jpg](https://s2.loli.net/2022/01/11/Uncv8mE4A1IJCBe.jpg)>
 
 ## 5 其他语法
 
@@ -296,4 +291,4 @@ Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！
 
 ### 5.4 更多文档
 
-更多文档请参考 [markdown-nice-docs](https://docs.mdnice.com "更多文档")
+更多文档请参考 [mdnice 产品主页](https://product.mdnice.com/articles/ "更多文档")
