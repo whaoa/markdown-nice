@@ -17,7 +17,7 @@ export default `/*初始化格式*/
 /* 一级标题 */
 #nice h1 {
   text-align:center;
-  background-image: url(https://my-wechat.mdnice.com/mdnice/mountain_2_20191028221337.png); 
+  background-image: url(https://s2.loli.net/2022/01/14/X3gJHmQsAeStUFW.png); 
   background-position: center top;
   background-repeat: no-repeat;
   background-size: 95px;
@@ -41,7 +41,7 @@ export default `/*初始化格式*/
 #nice h2 {
   display:block;
   text-align:center;
-  background-image: url(https://my-wechat.mdnice.com/mdnice/mountain_2_20191028221337.png); 
+  background-image: url(https://s2.loli.net/2022/01/14/X3gJHmQsAeStUFW.png); 
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: initial;
