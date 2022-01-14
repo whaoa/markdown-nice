@@ -49,6 +49,27 @@ export const TEMPLATE_OPTIONS = [
     author: "zhning12",
   },
   {
+    id: "shanchui",
+    name: "山吹",
+    author: "ElyhG",
+  },
+  {
+    id: "rose",
+    name: "蔷薇紫",
+    author: "HeyRain",
+  },
+  {
+    id: "fullStackBlue",
+    name: "全栈蓝",
+    author: "Nealyang",
+    // isNew: true,
+  },
+  {
+    id: "cuteGreen",
+    name: "萌绿",
+    author: "koala",
+  },
+  {
     id: "orangeHeart",
     name: "橙心",
     author: "zhning12",
@@ -64,19 +85,14 @@ export const TEMPLATE_OPTIONS = [
     author: "djmaxwow",
   },
   {
-    id: "cyan",
-    name: "嫩青",
-    author: "画手",
-  },
-  {
     id: "green",
     name: "绿意",
     author: "夜尽天明",
   },
   {
-    id: "red",
-    name: "红绯",
-    author: "HeyRain",
+    id: "cyan",
+    name: "嫩青",
+    author: "画手",
   },
   {
     id: "wechatFormat",
@@ -84,24 +100,9 @@ export const TEMPLATE_OPTIONS = [
     author: "画手",
   },
   {
-    id: "blue",
-    name: "蓝莹",
-    author: "谭淞宸",
-  },
-  {
-    id: "scienceBlue",
-    name: "科技蓝",
-    author: "夜尽天明",
-  },
-  {
     id: "blueCyan",
     name: "兰青",
     author: "Krahets",
-  },
-  {
-    id: "shanchui",
-    name: "山吹",
-    author: "ElyhG",
   },
   {
     id: "blueMountain",
@@ -114,25 +115,24 @@ export const TEMPLATE_OPTIONS = [
     author: "hyper-xx",
   },
   {
-    id: "simple",
-    name: "简",
-    author: "aco",
-  },
-  {
-    id: "rose",
-    name: "蔷薇紫",
+    id: "red",
+    name: "红绯",
     author: "HeyRain",
   },
   {
-    id: "cuteGreen",
-    name: "萌绿",
-    author: "koala",
+    id: "blue",
+    name: "蓝莹",
+    author: "谭淞宸",
   },
   {
-    id: "fullStackBlue",
-    name: "全栈蓝",
-    author: "Nealyang",
-    // isNew: true,
+    id: "scienceBlue",
+    name: "科技蓝",
+    author: "夜尽天明",
+  },
+  {
+    id: "simple",
+    name: "简",
+    author: "aco",
   },
   {
     id: "custom",
