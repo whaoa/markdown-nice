@@ -1,6 +1,18 @@
 {
   "name": "markdown-nice",
   "private": true,
+  "author": {
+    "name": "whaoa",
+    "email": "whaoa.w@outlook.com"
+  },
+  "homepage": "https://whaoa.github.io/markdown-nice/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whaoa/markdown-nice"
+  },
+  "bugs": {
+    "url": "https://github.com/whaoa/markdown-nice/issues"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
