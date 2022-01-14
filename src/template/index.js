@@ -18,6 +18,9 @@ import rose from "./markdown/rose";
 import cuteGreen from "./markdown/cuteGreen";
 import fullStackBlue from "./markdown/fullStackBlue";
 
+import nightPurple from "./markdown/nightPurple";
+import extremeBlack from "./markdown/extremeBlack";
+
 import content from "./content.md";
 
 import atomOneDark from "./code/atomOneDark";
@@ -58,6 +61,8 @@ export default {
     rose,
     cuteGreen,
     fullStackBlue,
+    nightPurple,
+    extremeBlack,
   },
   code: {
     atomOneDark,

@@ -62,12 +62,23 @@ export const TEMPLATE_OPTIONS = [
     id: "fullStackBlue",
     name: "全栈蓝",
     author: "Nealyang",
-    // isNew: true,
+  },
+  {
+    id: "nightPurple",
+    name: "凝夜紫",
+    author: "童欧巴",
+    isNew: true,
   },
   {
     id: "cuteGreen",
     name: "萌绿",
     author: "koala",
+  },
+  {
+    id: "extremeBlack",
+    name: "极简黑",
+    author: "小鱼",
+    isNew: true,
   },
   {
     id: "orangeHeart",
